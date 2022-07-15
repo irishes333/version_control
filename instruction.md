@@ -47,6 +47,8 @@ Left   | Center | Right
 align  | align  | align
 
 ## Картинки
-### Это апельсин
+### Это парк
 
-![orange](orange.png)
+
+
+![Park](парк.jpg)
